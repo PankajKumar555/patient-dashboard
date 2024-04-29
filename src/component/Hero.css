@@ -1,0 +1,61 @@
+div h1{
+    margin-bottom: 10px;
+}
+.herocontant{
+    line-height: 30px;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+.herocontant_green{
+    font-weight: bold;
+    color: rgba(15, 212, 114, 0.979);
+}
+.herosection{
+    text-align: left;
+    margin: 0px 65px;
+    padding-top: 10px;
+}
+.hero_card_containor{
+    display: flex;
+    margin-top: 20px;
+}
+.hero_card{
+    padding: 10px 15px;
+    border: 1px solid rgb(245, 242, 242);
+    background-color: white;
+    width: 210px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 20px;
+    margin-right: 20px;
+    font-weight: bold;
+    color: rgb(42, 42, 110);
+}
+.hero_card div p{
+    margin-left: 10px;
+}
+.heroicon{
+    border: 1px solid rgb(218, 217, 217);
+    width: auto;
+    height: auto;
+    padding: 6px;
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-right: 10px;
+    
+}
+.heroimg{
+    display: flex;
+    top: 0;
+    right: 0;
+    position: absolute;
+}
+.heroimg img{
+    width: 280px;
+    height: auto;
+    padding: 10px 95px 0px 0px ;
+}
